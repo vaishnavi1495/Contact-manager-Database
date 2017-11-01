@@ -14,7 +14,7 @@ This project consists of two modules:
 ## Overview
 #### Front-end
 
-![Database Design](/design.png)
+![Database Design] (/databasedesign.jpg)
 
 #### Back-end
 
